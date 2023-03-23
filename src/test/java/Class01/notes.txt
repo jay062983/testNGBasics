@@ -1,0 +1,14 @@
+Assertion
+verifies whether the test case is pass or fails
+if else =---> does not effect the failure or passage of the test case
+
+assertion will pass the test case ===> if the condition matches
+assertion will fail the test case==> if the condition doesn't match
+
+There are 2 kinds of Assertions
+1. Hard Assertion===> a. compares 2 string,int, booleans [Assert.assertEquals(expected)]
+                       b. verifies if a boolean value is true or false
+
+
+
+2.Soft Assertion
